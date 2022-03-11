@@ -1,7 +1,7 @@
 public class Hello {
     public static void main(String[] args){
 
-        System.out.println("hello!! My first Java Coding!!");
+        System.out.println("hello future!! My first Java Coding!!");
     }
 
 }
