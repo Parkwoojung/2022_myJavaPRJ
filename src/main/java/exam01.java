@@ -6,5 +6,7 @@ public class exam01 {
 
          System.out.println("안녕하세용");
 
+         System.out.println("1+1=2");
+
     }
 }
