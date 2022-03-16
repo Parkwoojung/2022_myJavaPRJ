@@ -5,8 +5,10 @@ public class exam01 {
      public static void main(String[] args) {
 
          System.out.println("안녕하세용");
-
          System.out.println("1+1=2");
+
+         System.out.println("깃 업데이트가 왜 안되는 거 같지");
+
 
     }
 }
