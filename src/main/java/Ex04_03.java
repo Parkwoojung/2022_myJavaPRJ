@@ -14,7 +14,7 @@ public class Ex04_03 {
         a -= 5;
         System.out.printf(" a -= 5 ==> %d \n", a);
 
-        a += 5;
+        a *= 5;
         System.out.printf(" a *= 5 ==> %d \n", a);
 
         a /= 5;
