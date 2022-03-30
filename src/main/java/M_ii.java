@@ -8,12 +8,10 @@ public class M_ii {
                 System.out.println(i++);// 2 5
 
             }
-//        for (int i = 0; i < 10;) {
-//            System.out.println(++i);
-//
+
 //        }
         }
 
     }
 
-}
+
