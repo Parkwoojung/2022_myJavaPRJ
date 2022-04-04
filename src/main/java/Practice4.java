@@ -9,3 +9,5 @@ public class Practice4 {
 
     }
 }
+
+//for문 첫 번째
