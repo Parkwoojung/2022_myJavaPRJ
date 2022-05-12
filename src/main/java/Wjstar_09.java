@@ -1,11 +1,12 @@
 public class Wjstar_09 {
     public static void main(String[] args) {
-        for (int i = 0; i < 6; i++){
-            for (int k = 0; k < 6; k++){
-                if (k<6-i){
-                    System.out.print(" ");
-                } else {
+        for(int x = 0; x < 10; x++){
+            for(int y = 0; y < 10; y++){
+
+                if (x < y) {
                     System.out.print("*");
+                } else {
+                    System.out.print(" ");
                 }
             }
             System.out.println(" ");

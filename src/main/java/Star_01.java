@@ -1,16 +1,15 @@
 public class Star_01 {
 
-     //for (int a = 1; a < 6; a++) {
+    public static void main(String[] args) {
+        for (int a = 1; a < 6; a++) {
 
-        //for (int b = 1; b <=a; b++) {
+            for (int b = 1; b <=a; b++) {
 
-           // System.out.print("*");
+                System.out.print("*");
 
 
+            }
+            System.out.println();
         }
-        //System.out.println();
-    //}
-//}
-//별짓기
-
-
+    }
+}

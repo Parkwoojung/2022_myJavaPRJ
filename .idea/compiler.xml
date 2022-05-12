@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="myJavaPRJ" />
+=======
+        <module name="javaprj" />
+>>>>>>> 40ab9c518f8ff9895ab8c77c18e50f4f68153d60
       </profile>
     </annotationProcessing>
   </component>
