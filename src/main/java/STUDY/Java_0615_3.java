@@ -25,6 +25,11 @@ class Sedan extends Car { //부모의 car클래스를 상속받겠다. car클래
 class Truck extends Car {
     int capacity;
 
+    void upSpeed(String value){
+        System.out.println("속도를 올립니다.");
+        System.out.println(value);
+    }
+
     int getCapacity(){
         return capacity;
     }
