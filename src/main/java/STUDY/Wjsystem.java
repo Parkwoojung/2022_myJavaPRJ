@@ -1,3 +1,5 @@
+package STUDY;
+
 public class Wjsystem {
     public static void main(String[] args) {
         //220410 처음부터 복습
